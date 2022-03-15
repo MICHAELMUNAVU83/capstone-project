@@ -204,13 +204,13 @@ header {
 }
 
 .e-2019 {
-  background: url("../images/event-1.svg");
+  background: url("../images/back1.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .e-2021 {
-  background: url("../images/event-2.svg");
+  background: url("../images/back2.jpg");
   background-size: cover;
   background-repeat: repeat;
 }
