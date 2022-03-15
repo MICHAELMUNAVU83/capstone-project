@@ -11,7 +11,7 @@ CC GLOBAL ENERGY SUMMIT WEBSITE
 -Javascript
 -CSS
 
-## Live Demo (if available)
+## Live Demo 
 
 [Live Demo Link](https://michaelmunavu83.github.io/capstone-project/)
 
