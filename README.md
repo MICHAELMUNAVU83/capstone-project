@@ -18,9 +18,11 @@ CC GLOBAL ENERGY SUMMIT WEBSITE
 
 ## Video Presentation
 
-[Video Presentation](https://www.loom.com/share/9a5afa4618204a518f3cd4eb320dc7e4)
+[Video Presentation](https://www.loom.com/share/4c2be5b76f464a9dbed24566b1848dd5)
 
+## Acknowledgements
 
+Credit to Cindy Shin , the original designer
 
 
 ## Authors
@@ -32,9 +34,11 @@ CC GLOBAL ENERGY SUMMIT WEBSITE
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/michael-munavu-78703a218/)
 - 
 
+## Getting Started
+To get a local copy up and running  use gitclone or download the ZIP folder
 
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](.MichaelMunavu/Capstoneproject/MIT.md) licensed.
 
